@@ -3,7 +3,7 @@
 
 - I’m currently working on [Laija AI](https://github.com/Lomila77/Laija-AI) - In progress
 
-- I’m currently learning **Reinforcement Learning with Human Feedback**
+- I’m learning **Reinforcement Learning** and **Time series**
 
 - I’m looking to collaborate on **your futur AI project**
 
@@ -13,7 +13,7 @@
 
 - How to reach me **gcolomer@protonmail.com**
 
-- Fun fact **I manage an Ark server** and **I'm still using raspberrypi**
+- Fun fact **I manage an Ark server** and **I'm still using raspberrypi 1**
 
 <p><i>I'm not using Github regulary but Gitlab. I will organize it soon ! Sorry for that !</i></p>
 
